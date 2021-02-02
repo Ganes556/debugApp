@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229050754342",
+    "project_id": "debugappsjoker",
+    "storage_bucket": "debugappsjoker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229050754342:android:20a59de4a5c03c1bba0de7",
+        "android_client_info": {
+          "package_name": "com.example.debugappsjoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229050754342-m4ifvccdlegnin2nmccfov5gt6md20fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6u-gb4DZX_GP4l07ksxGCk3UALP3cwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229050754342-m4ifvccdlegnin2nmccfov5gt6md20fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
